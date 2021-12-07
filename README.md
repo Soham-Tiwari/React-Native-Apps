@@ -182,6 +182,5 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 
 This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
 
-This list is maintained by [Sanjeev Yadav](https://github.com/sanjeevyadavIT/)
-- [twitter](https://twitter.com/sanjeevyadavIT)
+This list is maintained by [Soham Tiwari](https://github.com/soham-tiwari/)
 
