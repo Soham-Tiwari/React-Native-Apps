@@ -4,6 +4,16 @@ React Native Apps is a showcase of only open source React Native apps. These app
 
 To get your project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls).
 
+
+
+## Core Contributors
+
+This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
+
+This list is maintained by [Soham Tiwari](https://github.com/soham-tiwari/)
+
+
+
 ## Open Source React Native Apps
 
 | Title        | Description           | React Native Version  | Last Commit | Github Stars | Links |
