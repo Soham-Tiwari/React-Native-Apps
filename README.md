@@ -177,10 +177,3 @@ To get your project added, please submit a [pull request](https://github.com/Rea
 | [React Native UI Templates](https://github.com/Aashu-Dubey/React-Native-UI-Templates) | React-Native project inspired from [this](https://github.com/mitesh77/Best-Flutter-UI-Templates) amazing Flutter project. | ![React Native version](https://img.shields.io/github/package-json/dependency-version/Aashu-Dubey/React-Native-UI-Templates/react-native?label=%20&filename=react_native_UI_Templates/package.json) | ![GitHub last commit](https://img.shields.io/github/last-commit/Aashu-Dubey/React-Native-UI-Templates?label=%20) | ![Github Stars](https://img.shields.io/github/stars/Aashu-Dubey/React-Native-UI-Templates) |
 | [React Native Starter App](https://github.com/IronTony/react-native-boilerplate-starter-app) | 📱🚀A POWERFUL React Native starter kit to bootstrap the start of your mobile app development | ![React Native version](https://img.shields.io/github/package-json/dependency-version/IronTony/react-native-boilerplate-starter-app/react-native?label=%20&filename=package.json) | ![GitHub last commit](https://img.shields.io/github/last-commit/IronTony/react-native-boilerplate-starter-app?label=%20) | ![Github Stars](https://img.shields.io/github/stars/IronTony/react-native-boilerplate-starter-app) |
 
-
-## Core Contributors
-
-This list is curated by [Gant Laborde](https://twitter.com/gantlaborde), Chief Innovation Officer of [Infinite Red](https://infinite.red/technologies/react-native).
-
-This list is maintained by [Soham Tiwari](https://github.com/soham-tiwari/)
-
